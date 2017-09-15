@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_Alg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_Allocator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_Atomic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_BinaryFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_File.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_FileFILE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_Geometry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_JSON.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_Lexer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_Lockless.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_Log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_LogUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_MappedFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_Math.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_MemBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_RefCount.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_Signal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_Std.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_String.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_String_FormatUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_String_PathUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_SysFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_System.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_ThreadCommandQueue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_TypesafeNumber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_UTF8Util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\Kernel\OVR_ThreadsWinAPI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hudeming\Desktop\TianFuKang\OVRKernel\core\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0B013340-8495-3642-9514-803F7C4FFBF1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

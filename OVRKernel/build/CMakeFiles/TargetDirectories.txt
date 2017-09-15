@@ -1,0 +1,5 @@
+C:/Users/hudeming/Desktop/TianFuKang/OVRKernel/build/CMakeFiles/fontue.dir
+C:/Users/hudeming/Desktop/TianFuKang/OVRKernel/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hudeming/Desktop/TianFuKang/OVRKernel/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/hudeming/Desktop/TianFuKang/OVRKernel/build/vrs-core/CMakeFiles/vrs-core.dir
+C:/Users/hudeming/Desktop/TianFuKang/OVRKernel/build/vrs-core/CMakeFiles/ALL_BUILD.dir
